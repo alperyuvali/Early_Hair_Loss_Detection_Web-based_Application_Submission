@@ -7,13 +7,16 @@ The complete project file is available in the Releases section as a ZIP file.
 
 ## File
 
-- project-full.zip
+01_preprocess.ipynb
+02_train.ipynb
+03_app.ipynb
+hairloss_web_cnn-20260430T031351Z-3-001.zip
 
 ## Note
 
 Please download the ZIP file from the latest release.
 
-##How to use
+## How to use
 1. Download all project files from the GitHub repository.
 2. Upload the downloaded project files to Google Drive.
 3. Open Google Drive and check that all project folders and files are inside the uploaded folder except the notebooks.
